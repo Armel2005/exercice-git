@@ -1,3 +1,3 @@
-# Mon premier projet Git
+# Mon projet Git
 
 Ma nouvelle fonctionnalité
